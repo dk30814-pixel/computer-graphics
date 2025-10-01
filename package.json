@@ -1,0 +1,26 @@
+{
+  "dependencies": {
+    "three": "^0.180.0"
+  },
+  "name": "computer-graphics",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {
+    "vite": "^7.1.7"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dk30814-pixel/computer-graphics.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dk30814-pixel/computer-graphics/issues"
+  },
+  "homepage": "https://github.com/dk30814-pixel/computer-graphics#readme",
+  "description": ""
+}
